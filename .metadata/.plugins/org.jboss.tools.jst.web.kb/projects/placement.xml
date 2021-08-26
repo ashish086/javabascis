@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/ashis/eclipse-workspace/placement/WebContent/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+  <path value="C:/Users/ashis/eclipse-workspace/placement/WebContent/WEB-INF/lib/mysql-connector-java-8.0.13.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/jasper.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/tomcat-jdbc.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/tomcat-dbcp.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/catalina-tribes.jar"/>
+  <path value="C:/Users/ashis/eclipse-workspace/placement/WebContent/WEB-INF/lib/jandex-2.0.5.Final.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/catalina.jar"/>
+  <path value="C:/Users/ashis/eclipse-workspace/placement/WebContent/WEB-INF/lib/antlr-2.7.7.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/tomcat-i18n-ko.jar"/>
+  <path value="C:/Users/ashis/eclipse-workspace/placement/WebContent/WEB-INF/lib/jboss-logging-3.3.2.Final.jar"/>
+  <path value="C:/Users/ashis/eclipse-workspace/placement/WebContent/WEB-INF/lib/dom4j-2.1.1.jar"/>
+  <path value="C:/Users/ashis/eclipse-workspace/placement/WebContent/WEB-INF/lib/jsp-api-2.2.jar"/>
+  <path value="C:/Users/ashis/eclipse-workspace/placement/WebContent/WEB-INF/lib/javax.persistence-api-2.2.jar"/>
+  <path value="C:/Users/ashis/eclipse-workspace/placement/WebContent/WEB-INF/lib/servlet-api-2.5.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/jaspic-api.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/servlet-api.jar"/>
+  <path value="C:/Users/ashis/eclipse-workspace/placement/WebContent/WEB-INF/lib/jaxb-api-2.3.0.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/tomcat-i18n-pt-BR.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/tomcat-util-scan.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/tomcat-i18n-fr.jar"/>
+  <path value="C:/Users/ashis/eclipse-workspace/placement/WebContent/WEB-INF/lib/byte-buddy-1.8.17.jar"/>
+  <path value="C:/Users/ashis/eclipse-workspace/placement/WebContent/WEB-INF/lib/javassist-3.23.1-GA.jar"/>
+  <path value="C:/Users/ashis/eclipse-workspace/placement/WebContent/WEB-INF/lib/javax.activation-api-1.2.0.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/catalina-ha.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/tomcat-coyote.jar"/>
+  <path value="C:/Users/ashis/eclipse-workspace/placement/WebContent/WEB-INF/lib/hibernate-core-5.3.7.Final.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/tomcat-websocket.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/tomcat-i18n-ja.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/tomcat-util.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/tomcat-jni.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/el-api.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/jsp-api.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/websocket-api.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/catalina-ant.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/jasper-el.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/tomcat-api.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/annotations-api.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/catalina-storeconfig.jar"/>
+  <path value="C:/Users/ashis/eclipse-workspace/placement/WebContent/WEB-INF/lib/protobuf-java-3.6.1.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/ecj-4.20.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/tomcat-i18n-es.jar"/>
+  <path value="C:/Users/ashis/eclipse-workspace/placement/WebContent/WEB-INF/lib/hibernate-commons-annotations-5.0.4.Final.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/tomcat-i18n-zh-CN.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/tomcat-i18n-ru.jar"/>
+  <path value="C:/Users/ashis/eclipse-workspace/placement/WebContent/WEB-INF/lib/classmate-1.3.4.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/catalina-ssi.jar"/>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/tomcat-i18n-cs.jar"/>
+  <path value="C:/Users/ashis/eclipse-workspace/placement/WebContent/WEB-INF/lib/jstl-1.2.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0-rt.tld" project="placement"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0.tld" project="placement"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c.tld" project="placement"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0-rt.tld" project="placement"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0.tld" project="placement"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt.tld" project="placement"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fn.tld" project="placement"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/permittedtaglibs.tld" project="placement"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/scriptfree.tld" project="placement"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0-rt.tld" project="placement"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0.tld" project="placement"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql.tld" project="placement"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0-rt.tld" project="placement"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0.tld" project="placement"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x.tld" project="placement"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/ashis/Downloads/apache-tomcat-9.0.52/lib/tomcat-i18n-de.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jboss.cdi.core"/>
+  <el>
+   <linked-el length="38" name="%0" offset="1190" path="%1"/>
+   <linked-el length="40" name="%0" offset="1315" path="%1"/>
+   <linked-el length="31" name="%0" offset="1105" path="%2"/>
+   <linked-el length="13" name="%0" offset="921" path="%1"/>
+   <linked-el length="18" name="%3" offset="1108" path="%1"/>
+   <linked-el length="54" name="%3" offset="1885" path="%2"/>
+   <linked-el length="15" name="%4" offset="980" path="%1"/>
+   <linked-el length="52" name="%4" offset="1336" path="%2"/>
+   <linked-el length="21" name="%5" offset="1041" path="%1"/>
+   <linked-el length="57" name="%5" offset="1611" path="%2"/>
+   <linked-el length="13" name="%6" offset="846" path="%1"/>
+   <linked-el length="17" name="%7" offset="611" path="%2"/>
+   <linked-el length="15" name="%7" offset="980" path="%1"/>
+   <linked-el length="18" name="%7" offset="1108" path="%1"/>
+   <linked-el length="17" name="%7" offset="800" path="%2"/>
+   <linked-el length="21" name="%7" offset="1041" path="%1"/>
+   <linked-el length="17" name="%7" offset="514" path="%2"/>
+   <linked-el length="17" name="%7" offset="897" path="%2"/>
+   <linked-el length="57" name="%7" offset="1611" path="%2"/>
+   <linked-el length="17" name="%7" offset="1037" path="%2"/>
+   <linked-el length="13" name="%7" offset="921" path="%1"/>
+   <linked-el length="38" name="%7" offset="1190" path="%1"/>
+   <linked-el length="40" name="%7" offset="1315" path="%1"/>
+   <linked-el length="31" name="%7" offset="1105" path="%2"/>
+   <linked-el length="54" name="%7" offset="1885" path="%2"/>
+   <linked-el length="52" name="%7" offset="1336" path="%2"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="/placement/WebContent/user-list.jsp" value="%1"/>
+  <alias path="user.id" value="%0"/>
+  <alias path="user.emailid" value="%3"/>
+  <alias path="user.name" value="%4"/>
+  <alias path="user.department" value="%5"/>
+  <alias path="listUser" value="%6"/>
+  <alias path="user" value="%7"/>
+  <alias path="/placement/WebContent/user-form.jsp" value="%2"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://java.sun.com/jsp/jstl/core">
+   <prefix>c</prefix>
+  </uri>
+ </uris>
+</kb-project>
