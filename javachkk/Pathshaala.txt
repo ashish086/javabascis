@@ -1,0 +1,139 @@
+Java:
+1. Java hota kya hai?
+2.Execution hota hai java mae
+3.datatypes
+4. operators in java
+5. conditonals statements like(if,else,if else)
+6. loops<for,while,dowhile)
+
+
+
+Java Hota kya hai
+Java ka initial oak
+sun microsystems theek hai
+oracle owns it .
+
+Java is OOPS lanaguage, it is not 100% percent 
+C datatypes vahi same java mae bhi
+java suports primitive datatypes like int,char,bool, etc.
+Keyword 
+ex; public static void add(x,y){
+x+Y;
+}
+obj1.add(2,3)
+Reasons for java not being 100% OOPS:
+1. it supports primitvw datatyoes
+2. It has static keyword
+3. Wrapper class(primtive datypes unka ek class hota hai int ex int a = 4; wrapp int into Integer(Object type))
+
+
+
+Java jdk: Java Development kit(Two softwares JVM(java virtual machine), JRE(java runtime engine))
+
+Difference between JDK,JRE,JVM
+JDK(JVM AND JRE)
+JVM:Java Virtual Machine
+JRE: Java Runtime Engine(jVM)
+JVM :Just in time compille(Machine level code conversion 010)JVM KE under rehta hai 
+
+project : extesnion .java after compilation it gets coverted int .class(File is readable only by machines)
+
+
+
+Datatype in java:
+Two main types:
+Primitive
+Non-Primitve
+
+Primitive datatypes: 
+8 types:
+int
+bool
+char
+short
+long
+float
+double
+byte
+
+Type casting : conversion of one datatype to another is called type casting
+2 Types:
+Implicit type casting(KHud java karta hai)
+Explicit type casting(Developer ko code ke under karna padhta hai)
+
+ 
+Operators In java:
+8 types:
+1. Arithmetic Operators
+2.Unary Operators
+3. Assignment Operator
+4. Relational Operator
+5. Logical Operator
+6. Ternary Operator
+7. Bitwise Operators
+8.Shift Operators
+
+
+
+
+1.Arithmetic Operators.
++(Adds two numbers)
+
+-(subtract two numbers)
+*(Multiplication of two numbers)
+/(Divison of two numbers)
+%(Modulus of operators)
+++(increment operator)
+--(decrement operator)
+
+2. UNary operator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KAL KA PLAN HAI:
+Loops
+Keywords like final,this,static vagera vagera
+Arrays,
+Exception handling
+Threading
+OOPS ke concepts
+EXamples of oops
+
+
+
+
+
+
+
+
+Last part: COllections framework
+List,Set,Map,queue
